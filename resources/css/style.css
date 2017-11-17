@@ -18,10 +18,16 @@ h1{
     font-size: 32px;
     font-weight: bold;
 }
-.process h3 {
+h3 {
     font-size: 23px;
     font-weight: bold;
 }
-.process p{
+p{
     font-size: 14px;
+}
+.about h2 {
+    font-size: 23px;
+    font-weight: bold;
+    color:white;
+    background-image: url(/resources/images/the-flatiron-building.png);
 }
