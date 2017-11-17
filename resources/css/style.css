@@ -31,3 +31,14 @@ p{
     color:white;
     background-image: url(/resources/images/the-flatiron-building.png);
 }
+.footer {
+    text-align: left;
+    color: white;
+    background-color: dimgray;
+}
+.footer span {
+    font-size: 11px;
+}
+.footer a {
+    color: white;
+}
